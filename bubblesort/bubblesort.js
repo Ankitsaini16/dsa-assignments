@@ -16,7 +16,7 @@ for (let i = 0; i < arr.length; i++) {
     break;
   }
 }
-console.log(arr);
+// console.log(arr);
 for (let t of arr) {
   console.log(t);
 }
